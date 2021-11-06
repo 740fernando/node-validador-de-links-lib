@@ -1,0 +1,27 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "y",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./test/",
+    "cli": "node cli.js ./arquivos/texto1.md"
+  },
+  "keywords": [],
+  "author": "y",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "node-fetch": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
